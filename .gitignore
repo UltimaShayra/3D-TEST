@@ -1,14 +1,15 @@
 # Plugin Specific ignores
-default_env.tres
-icon.png
-icon.png.import
 scn/
 override.cfg
+git_api.gdnlib
+git_api.gdns
+bin/
 
 # Godot-specific ignores
 .import/
 export.cfg
 export_presets.cfg
+VERSION.md
 
 # Mono-specific ignores
 .mono/
