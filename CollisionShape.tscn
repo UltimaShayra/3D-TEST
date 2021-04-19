@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="ConvexPolygonShape" id=1]
+margin = 0.001
+points = PoolVector3Array( 0, 0, 100, 86.6, 0, 50, 86.6, 50, 50, 0, 50, 100, -86.6, 50, 50, -86.6, 0, 50, -86.6, 0, -50, -86.6, 50, -50, 0, 50, -100, 0, 0, -100, 86.6, 0, -50, 86.6, 50, -50 )
+
+[node name="CollisionShape" type="CollisionShape"]
+transform = Transform( 0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, 0, 0, 0 )
+shape = SubResource( 1 )

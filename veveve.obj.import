@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/veveve.obj-bfe7eedae28d6a63cc68ab71e8c2bf44.mesh"
+
+[deps]
+
+files=[ "res://.import/veveve.obj-bfe7eedae28d6a63cc68ab71e8c2bf44.mesh" ]
+
+source_file="res://veveve.obj"
+dest_files=[ "res://.import/veveve.obj-bfe7eedae28d6a63cc68ab71e8c2bf44.mesh", "res://.import/veveve.obj-bfe7eedae28d6a63cc68ab71e8c2bf44.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
